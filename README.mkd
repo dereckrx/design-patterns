@@ -1,0 +1,3 @@
+Design Patterns examples implemented in Ruby.
+
+_Notes taken from: http://www.amazon.com/Design-Patterns-Ruby-Russ-Olsen/dp/0321490452_
